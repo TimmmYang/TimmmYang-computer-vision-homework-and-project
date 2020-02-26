@@ -1,6 +1,4 @@
-## Computer Vision ##
-
-### Project 1 -- Feature Matching + Homography to find Objects ###
+## Project 1 -- Feature Matching + Homography to find Objects ##
 
 
 
