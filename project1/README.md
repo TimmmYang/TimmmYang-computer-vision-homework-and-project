@@ -1,6 +1,4 @@
-## Computer Vision ##
-
-### Project 1 -- Feature Matching + Homography to find Objects ###
+## Project 1 -- Feature Matching + Homography to find Objects ##
 
 
 
@@ -13,7 +11,7 @@ This is the project 1 of computer vision course. The project is implemented in t
 
 
 
-Reference:
+References:
 
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html#feature-homography
 
